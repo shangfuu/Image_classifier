@@ -1,0 +1,20 @@
+.DS_Store
+
+.vscode
+
+__pycache__
+
+#logs
+logs/*
+
+# models
+*/models/*
+!*/models/.gitkeep
+
+#pickles
+*/pickles/*
+!*/pickles/.gitkeep
+
+# images
+PetImages/
+testData/
